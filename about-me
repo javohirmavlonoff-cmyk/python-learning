@@ -1,0 +1,12 @@
+```
+name=('Javohir Mavlanberdiyev')
+age=18
+country=('Uzbekistan')
+university=('Cyber University')
+major=('Software Engineer')
+print(f'My full Name: {name}')
+print(f'My age: {age}')
+print(f'My country: {country}')
+print(f'My university: {university}')
+print(f'My major: {major}')
+```
